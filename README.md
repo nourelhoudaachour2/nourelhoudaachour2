@@ -5,18 +5,18 @@
 <h1 align="center">Hi 🌸, I'm Nour El Houda Achour</h1>
 <h3 align="center">Software Engineering Student | Turning curiosity into code ⌨️</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C2185B&center=true&vCenter=true&width=520&lines=Curious+by+nature%2C+builder+by+habit;Plot+twist%3A+I+love+financial+accounting" alt="Typing animation"/>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C2185B&center=true&vCenter=true&width=520&height=40&lines=Curious+by+nature%2C+builder+by+habit;Plot+twist%3A+I+love+financial+accounting" alt="Typing animation"/></p>
 
-<img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="320" alt="Animation"/>
+<p align="center"><img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="320" alt="Animation"/></p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nour-el-houda-achour/"><img src="https://img.shields.io/badge/LinkedIn-Nour%20El%20Houda%20Achour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nourelhoudaachour2&label=Profile%20views&color=C2185B&style=for-the-badge" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/nourelhoudaachour2/nourelhoudaachour2.svg?style=for-the-badge&label=Profile%20views&color=C2185B&labelColor=555555" alt="Profile views"/>
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
 
 ### 🎓 About me
 
@@ -26,7 +26,7 @@
 - 🧮 Fun fact **Plot twist: I'm a software engineering student who loves financial accounting 💰**
 - 🗣️ I speak **Arabic, French and English**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
 
 ### ⚙️ Languages and Tools
 
@@ -59,7 +59,18 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
+
+### 🏅 Certifications
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-mongodb.png" height="140" alt="MongoDB Skill: AI Agents with MongoDB"/>
+  <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-cisco-python.png" height="140" alt="Cisco Networking Academy: Python Essentials 2"/>
+  <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-aws-genai%20(1).png" height="140" alt="AWS Academy Graduate: Generative AI Foundations"/>
+  <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-aws-ml.png" height="140" alt="AWS Academy Graduate: Machine Learning Foundations"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
 
 ### 💻 GitHub Stats
 
@@ -68,6 +79,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelhoudaachour2&layout=compact&hide_border=true&locale=en&title_color=C2185B" alt="Top languages"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
+
 <div align="center">
-  <img src="https://ghchart.rshah.org/C2185B/nourelhoudaachour2" alt="Contribution graph" width="100%"/>
+  <a href="https://www.linkedin.com/in/nour-el-houda-achour/"><img src="https://img.shields.io/badge/Let's%20connect-on%20LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/></a>
+  <a href="https://github.com/nourelhoudaachour2?tab=followers"><img src="https://img.shields.io/github/followers/nourelhoudaachour2?label=Follow&style=for-the-badge&logo=github&color=6A1B9A" alt="Follow on GitHub"/></a>
+  <br/><br/>
+  <sub>Thanks for stopping by 🤍</sub>
 </div>
