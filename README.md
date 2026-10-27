@@ -61,16 +61,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
 
-### 🏅 Certifications
-
+🏅 Certifications & Badges
 <p align="left">
   <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-mongodb.png" height="140" alt="MongoDB Skill: AI Agents with MongoDB"/>
   <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-cisco-python.png" height="140" alt="Cisco Networking Academy: Python Essentials 2"/>
   <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-aws-genai%20(1).png" height="140" alt="AWS Academy Graduate: Generative AI Foundations"/>
   <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/cert-aws-ml.png" height="140" alt="AWS Academy Graduate: Machine Learning Foundations"/>
+  <img src="https://raw.githubusercontent.com/nourelhoudaachour2/nourelhoudaachour2/main/badge-github-foundations.png" height="140" alt="GitHub Foundations — Track Complete"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E91E8C,100:6A1B9A&height=1&section=header" width="100%" alt=""/>
 
 ### 💻 GitHub Stats
 
